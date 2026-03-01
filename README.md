@@ -1,2 +1,2 @@
-# minecraftserver
-Server de DJ
+# Just servers hosted in github
+yep u read that correctly didnt u?
